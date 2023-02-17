@@ -1,2 +1,2 @@
 # Simple-Text-Editor
-Simple alphanumeric text editor 
+Simple alphanumeric text editor in Racket
